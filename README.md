@@ -7,28 +7,6 @@ Desarrollo aplicaciones web, herramientas de automatización y soluciones orient
 
 ## Proyectos destacados
 
-### ⚽ Prode Mundial 2026
-
-Plataforma web para organizar torneos privados de pronósticos para el Mundial 2026.
-
-Permite gestionar usuarios, invitaciones, fixture, predicciones, puntajes automáticos y tablas de posiciones, con integración de APIs externas para actualizar resultados.
-
-**Stack:** Python · Django · PostgreSQL · APIs · Railway
-
-[Repositorio](https://github.com/rherrainz/prode) · [Demo](https://prode2026.up.railway.app/)
-
----
-
-### 🎓 Calculadora de Materias UK
-
-Aplicación web para calcular automáticamente la situación académica de una materia a partir de las notas de actividades, foros y parciales.
-
-Calcula promedios y determina el estado final de la cursada: **Promocionado, Regular o Libre**, incluyendo validaciones de notas y controles para simplificar la carga.
-
-**Stack:** HTML5 · JavaScript · Bootstrap
-
----
-
 ### 🏠 calcul.ar
 
 Comparador y simulador de créditos hipotecarios de Argentina.
@@ -37,7 +15,29 @@ Permite analizar distintas alternativas de financiación y estimar variables com
 
 **Stack:** React · TypeScript · Vite · APIs · Google Apps Script · Vercel
 
-[calcul.ar](https://calcul.ar)
+[🌐 calcul.ar](https://calcul.ar)
+
+---
+
+### ⚽ Prode Mundial 2026
+
+Plataforma web para organizar torneos privados de pronósticos para el Mundial 2026.
+
+Permite gestionar usuarios, fixture, predicciones, puntajes y tablas de posiciones, con integración de APIs externas para la gestión de resultados.
+
+**Stack:** Python · Django · PostgreSQL · APIs
+
+[💻 Repositorio](https://github.com/rherrainz/prode)
+
+---
+
+### 🎓 Calculadora de Materias UK
+
+Aplicación web para calcular automáticamente la situación académica de una materia a partir de las notas de actividades, foros y parciales.
+
+Calcula promedios y determina el estado final de la cursada: **Promocionado, Regular o Libre**, incluyendo validaciones y controles para simplificar la carga.
+
+**Stack:** HTML5 · JavaScript · Bootstrap
 
 ---
 
