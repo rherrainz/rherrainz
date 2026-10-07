@@ -39,6 +39,8 @@ Calcula promedios y determina el estado final de la cursada: **Promocionado, Reg
 
 **Stack:** HTML5 · JavaScript · Bootstrap
 
+[🌐 Abrir calculadora](https://rherrainz.github.io/UK-calc/)
+
 ---
 
 ## Tecnologías
@@ -61,11 +63,17 @@ Calcula promedios y determina el estado final de la cursada: **Promocionado, Reg
 
 ---
 
+## Formación
+
+- **Tecnicatura Universitaria en Tecnología de la Información** — Universidad Kennedy
+- **Diplomatura en Desarrollo Web Full Stack** — Universidad Tecnológica Nacional (UTN)
+
+---
+
 ## Actualmente
 
 - Desarrollo aplicaciones web full stack.
 - Trabajo con automatización y análisis de datos.
-- Curso la Tecnicatura Universitaria en Tecnología de la Información.
 - Continúo desarrollando proyectos propios orientados a resolver problemas reales.
 
 ---
