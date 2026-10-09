@@ -55,11 +55,11 @@ Calcula promedios y determina el estado final de la cursada: **Promocionado, Reg
 
 ### Datos
 
-`PostgreSQL` `SQL` `Pandas`
+`PostgreSQL` `SQL` `Pandas` `MongoDB`
 
 ### Herramientas
 
-`Git` `GitHub` `Docker` `Linux` `Vite`
+`Git` `GitHub` `Docker` `Linux` `Vite` `Codex`
 
 ---
 
