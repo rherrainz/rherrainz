@@ -1,7 +1,7 @@
 # Rodrigo Herrainz
 
 **Full Stack Developer**  
-Python · Django · React · Node.js · PostgreSQL
+Python · JavaScript · Django · React · Node.js · PostgreSQL · MongoDB
 
 Desarrollo aplicaciones web, herramientas de automatización y soluciones orientadas a datos. Me interesa construir productos útiles, simples de usar y enfocados en resolver problemas concretos.
 
